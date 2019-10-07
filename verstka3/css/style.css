@@ -1,0 +1,121 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Slabo 27px', serif;
+    outline: none;
+}
+ul, li{
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+.menu a{
+    color: #a3a3a3;
+}
+.logo{
+margin-top: 51px;
+}
+.menu{
+    padding-left: 401px;
+    align-items: center;
+    margin-top: 51px;
+}
+.menu__item{
+    font-size: 20px;
+    margin-left: 37px;
+    line-height: 30px;
+}
+.menu a:hover{
+    text-decoration:underline solid #5094f2;
+    transition: 0.3;
+}
+.banner{
+margin-top: 30px;
+background-image: url(../img/background.png);
+background-size: cover;
+height: 500px;
+width: 1250;
+background-color: #000;
+}
+.iphone{
+    margin-top: 40px;
+}
+.banner__title{
+    margin-top: 155px;
+    font-size:42px;
+    color: #fff;
+    text-align:
+}
+.banner__text{
+    margin-top: 28px;
+    font-size: 26px;
+    color: #fff;
+}
+.banner__button{
+    font-size: 22px;
+    color: #fff;
+    background-color: #5094f2;
+    height: 41px;
+    width: 172px;
+    border: none;
+    display: table-cell;
+}
+.services{
+    margin-top: 67px;
+
+
+}
+.image__blog1, .image__blog2, .image__blog3{
+    margin-left: 65px;
+}
+.blog__one{
+    margin-left: 61px;
+    font-size: 42px;
+    color: #7eadf5;
+    margin-top: 28px;
+    text-align: center;
+}
+.services__p{
+    margin-left: 28px;
+    font-size: 14px;
+    color: #b2b2b2;
+    text-align: center;
+}
+.shop__title{
+    margin-bottom: 33px;
+    color: #6f7173;
+    margin-left: 23px;
+}
+.shoping{
+    margin-top: 93px;
+    margin-left: 41px;
+}
+.footer__left{
+    margin-top: 150px;
+}
+.footer__title{
+    font-size: 26px;
+    color: #6f7173;
+    margin-left: 90px;
+}
+.footer__text{
+    color: #999999;
+    margin-left: 90px;
+    font-size: 15px;
+}
+.rolles{
+    height: 93px;
+    width: 100%;
+    border-top: 1px solid #b2b2b2;
+    margin-top: 70px;
+    text-align: center;
+    font-size: 25px;
+    color: #b2b2b2;
+}
+
+
+
+
+
+
